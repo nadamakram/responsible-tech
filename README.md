@@ -20,3 +20,11 @@ Contributions are welcome to help expand and update this
 | Name                                         | Description                                                                                                                        | Reference                                                                                                         |
 |---------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Digital Anthropology Department, UCL University | The Centre for Digital Anthropology is a leading research hub for the understanding of digital technologies in the rich context of human society and culture.  | [Link](https://www.ucl.ac.uk/anthropology/research/centre-digital-anthropology)
+
+
+## Companies 
+Those are the companies working in tech with good impact as a priority.
+
+| Name                  | Description                                                                                                                                     | Reference                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Wikimedia Foundation | The nonprofit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity. | [Link](https://wikimediafoundation.org/)
