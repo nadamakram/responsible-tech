@@ -11,11 +11,10 @@ Contributions are welcome to help expand and update this
 
 
 ## Initiatives
-| Name                                         | Description                                                                                                                        | Reference                                                                                                         |
-|---------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Tech For Palestine | Tech for Palestine (“T4P”) is a coalition of thousands of founders, engineers, product marketers, investors and other professionals who are working in support of Palestinian liberation. | [Link](https://techforpalestine.org/)
-|
-| LF AI & Data Foundation | The LF AI & Data Foundation supports open source projects within artificial intelligence and the data space.| [Link](https://lfaidata.foundation/projects/)
+| Name                  | Description                                                                                                                                     | Reference                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Tech For Palestine    | Tech for Palestine (“T4P”) is a coalition of thousands of founders, engineers, product marketers, investors and other professionals who are working in support of Palestinian liberation. | [Link](https://techforpalestine.org/) |
+| LF AI & Data Foundation | The LF AI & Data Foundation supports open source projects within artificial intelligence and the data space.                                    | [Link](https://lfaidata.foundation/projects/) |
 
 ## Influencers 
 | Name                                         | Description                                                                                                                        | Reference                                                                                                         |
