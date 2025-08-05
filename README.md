@@ -17,6 +17,15 @@ A curated reference of organizations, initiatives, open-source packages, and tho
 
 Contributions are welcome to help expand and update this
 
+## Table of Contents
+
+- [Responsible Technology](#responsible-technology)
+  - [Initiatives](#initiatives)
+  - [Interviews](#interviews)
+  - [Research Entities](#research-entities)
+  - [Companies](#companies)
+- [Contributing](#contributing)
+
 
 ## Initiatives
 | Name                  | Description                                                                                                                                     | Reference                                                                 |
@@ -29,11 +38,13 @@ Contributions are welcome to help expand and update this
 | Name                  | Description                                                                                                                                     | Reference                                                                 |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 Geoffrey Hinton | Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton | [Link](https://www.youtube.com/watch?v=giT0ytynSqg)
-## Research Entities 
-| Name                                         | Description                                                                                                                        | Reference                                                                                                         |
-|---------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Digital Anthropology Department, UCL University | The Centre for Digital Anthropology is a leading research hub for the understanding of digital technologies in the rich context of human society and culture.  | [Link](https://www.ucl.ac.uk/anthropology/research/centre-digital-anthropology)
 
+
+## Research Entities 
+| Name                  | Description                                                                                                                                     | Reference                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| Digital Anthropology Department, UCL University | The Centre for Digital Anthropology is a leading research hub for the understanding of digital technologies in the rich context of human society and culture.  | [Link](https://www.ucl.ac.uk/anthropology/research/centre-digital-anthropology) |
+| Social Science Research Council | Mobilizing social science for the public good. | [Link](https://www.ssrc.org/)|
 
 ## Companies 
 Those are the companies working in tech with good impact as a priority.
