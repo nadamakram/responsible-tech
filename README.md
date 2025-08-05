@@ -36,3 +36,8 @@ Those are the companies working in tech with good impact as a priority.
 | Name                  | Description                                                                                                                                     | Reference                                                                 |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Wikimedia Foundation | The nonprofit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity. | [Link](https://wikimediafoundation.org/)
+
+
+# Contributing
+
+We welcome contributions! Please see our [Contribution Guidelines](CONTRIBUTING.md) for details on how to get involved.
