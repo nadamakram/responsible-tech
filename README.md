@@ -23,8 +23,13 @@ Contributions are welcome to help expand and update this
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Tech For Palestine    | Tech for Palestine (“T4P”) is a coalition of thousands of founders, engineers, product marketers, investors and other professionals who are working in support of Palestinian liberation. | [Link](https://techforpalestine.org/) |
 | LF AI & Data Foundation | The LF AI & Data Foundation supports open source projects within artificial intelligence and the data space.                                    | [Link](https://lfaidata.foundation/projects/) |
+| All Tech Is Human | All Tech Is Human brings together people, organizations, and ideas to grow and strengthen the Responsible Tech ecosystem. | [Link](https://alltechishuman.org/)
 
-## Influencers 
+## Interviews
+| Name                  | Description                                                                                                                                     | Reference                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+Geoffrey Hinton | Godfather of AI: I Tried to Warn Them, But We’ve Already Lost Control! Geoffrey Hinton | [Link](https://www.youtube.com/watch?v=giT0ytynSqg)
+## Research Entities 
 | Name                                         | Description                                                                                                                        | Reference                                                                                                         |
 |---------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Digital Anthropology Department, UCL University | The Centre for Digital Anthropology is a leading research hub for the understanding of digital technologies in the rich context of human society and culture.  | [Link](https://www.ucl.ac.uk/anthropology/research/centre-digital-anthropology)
