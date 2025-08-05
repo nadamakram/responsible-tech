@@ -1,5 +1,13 @@
+
 # Responsible Technology
 
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![Awesome](https://img.shields.io/badge/awesome-yes-orange.svg)
+
+<p align="center">
+  <img src="./assets/logo.png" alt="Responsible Tech Logo" height="170"/>
+</p>
 A curated reference of organizations, initiatives, open-source packages, and thought leaders dedicated to responsible technology and ethical AI. This repository aims to support researchers, developers, and anyone interested in being responsible when using technology and AI, and in highlighting the good of using tech (instead of focusing solely on commercial benefits) by providing resources on:
 
 - Non-commercial organizations and initiatives in tech-for-good
