@@ -32,8 +32,9 @@ Contributions are welcome to help expand and update this
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | Tech For Palestine    | Tech for Palestine (“T4P”) is a coalition of thousands of founders, engineers, product marketers, investors and other professionals who are working in support of Palestinian liberation. | [Link](https://techforpalestine.org/) |
 | LF AI & Data Foundation | The LF AI & Data Foundation supports open source projects within artificial intelligence and the data space.                                    | [Link](https://lfaidata.foundation/projects/) |
-| All Tech Is Human | All Tech Is Human brings together people, organizations, and ideas to grow and strengthen the Responsible Tech ecosystem. | [Link](https://alltechishuman.org/)
-
+| All Tech Is Human | All Tech Is Human brings together people, organizations, and ideas to grow and strengthen the Responsible Tech ecosystem. | [Link](https://alltechishuman.org/) |
+| DATA for GOOD Foundation | DATA for GOOD has developed a neutral platform infrastructure that offers the possibility to connect citizens, companies, and public organizations in a digital ecosystem where data can be shared under the control of the individual citizen enabling new digital services for citizens and value-creating new insights. | [Link](https://arc.net/l/quote/qwjmepus) |
+| Digital Impact Alliance | A global alliance, partnering with many of the world’s most influential investors and changemakers in digital development to realize a world where data and digital technology serve people, society, and the planet. | [Link](https://dial.global/)
 ## Interviews
 | Name                  | Description                                                                                                                                     | Reference                                                                 |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
@@ -51,8 +52,9 @@ Those are the companies working in tech with good impact as a priority.
 
 | Name                  | Description                                                                                                                                     | Reference                                                                 |
 |-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| Wikimedia Foundation | The nonprofit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity. | [Link](https://wikimediafoundation.org/)
-
+| Wikimedia Foundation | The nonprofit Wikimedia Foundation provides the essential infrastructure for free knowledge. We host Wikipedia, the free online encyclopedia, created, edited, and verified by volunteers around the world, as well as many other vital community projects. All of which is made possible thanks to donations from individuals like you. We welcome anyone who shares our vision to join us in collecting and sharing knowledge that fully represents human diversity. | [Link](https://wikimediafoundation.org/) |
+| PolicyEngine | PolicyEngine is a nonprofit that provides free, open source software to compute the impact of public policy. We operate in the US and UK. | [Link](https://policyengine.org) |
+| UBI | Analyzing universal basic income policies with open-source research | [Link](https://arc.net/l/quote/bzwtfpqs) |
 
 # Contributing
 
